@@ -1,0 +1,23 @@
+body{
+    background-color: grey;
+}
+
+h1, h2, h3{
+    color: purple;
+}
+
+p{
+    color: blue;
+}
+
+ol{
+    color: brown;
+}
+
+ul{
+    color: green;
+}
+
+a{
+    color: yellow;
+}
